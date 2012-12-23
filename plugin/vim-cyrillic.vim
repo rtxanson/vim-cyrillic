@@ -125,4 +125,7 @@ nmap <c-§> <c-&>
 nmap – _
 nmap <c-–> <c-_>
 
+nmap дд dd
+nmap цц cc
+nmap ъъ yy
 
