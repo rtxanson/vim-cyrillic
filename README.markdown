@@ -1,7 +1,8 @@
 
+Vim Cyrillic -> Finnish Extended for Macbook keyboards
+======================================================
 
-Vim Cyrillic
-============
+Forked originally from `x1024`, but modified for this specific use case.
 
 This file contains normal mode mappings that allow easier vim editing
 on a phonetic cyrillic keyboard without using langmap/keymap.
