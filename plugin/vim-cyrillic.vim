@@ -1,3 +1,6 @@
+"" Cyrillic Phonetic -> Finnish Extended mappings for a Macbook keyboard 
+""
+
 nmap я q
 nmap <c-я> <c-q>
 nmap в w
@@ -8,8 +11,8 @@ nmap р r
 nmap <c-р> <c-r>
 nmap т t
 nmap <c-т> <c-t>
-nmap ъ y
-nmap <c-ъ> <c-y>
+nmap ы y
+nmap <c-ы> <c-y>
 nmap у u
 nmap <c-у> <c-u>
 nmap и i
@@ -18,10 +21,10 @@ nmap о o
 nmap <c-о> <c-o>
 nmap п p
 nmap <c-п> <c-p>
-nmap ш [
-nmap <c-ш> <c-[>
-nmap щ ]
-nmap <c-щ> <c-]>
+nmap ю å
+nmap <c-ю> <c-å>
+nmap ж ¨
+nmap <c-ж> <c-¨>
 nmap а a
 nmap <c-а> <c-a>
 nmap с s
@@ -32,28 +35,33 @@ nmap ф f
 nmap <c-ф> <c-f>
 nmap г g
 nmap <c-г> <c-g>
-nmap х h
-nmap <c-х> <c-h>
+nmap ч h
+nmap <c-ч> <c-h>
 nmap й j
 nmap <c-й> <c-j>
 nmap к k
 nmap <c-к> <c-k>
 nmap л l
 nmap <c-л> <c-l>
+nmap ; ö
+nmap <c-;> <c-ö>
+nmap ' ä
+nmap <c-'> <c-ä>
 nmap з z
 nmap <c-з> <c-z>
-nmap ь x
-nmap <c-ь> <c-x>
+nmap х x
+nmap <c-х> <c-x>
 nmap ц c
 nmap <c-ц> <c-c>
-nmap ж v
-nmap <c-ж> <c-v>
+nmap в v
+nmap <c-в> <c-v>
 nmap б b
 nmap <c-б> <c-b>
 nmap н n
 nmap <c-н> <c-n>
 nmap м m
 nmap <c-м> <c-m>
+
 nmap Я Q
 nmap <c-Я> <c-Q>
 nmap В W
@@ -64,8 +72,8 @@ nmap Р R
 nmap <c-Р> <c-R>
 nmap Т T
 nmap <c-Т> <c-T>
-nmap Ъ Y
-nmap <c-Ъ> <c-Y>
+nmap Ы Y
+nmap <c-Ы> <c-Y>
 nmap У U
 nmap <c-У> <c-U>
 nmap И I
@@ -74,10 +82,10 @@ nmap О O
 nmap <c-О> <c-O>
 nmap П P
 nmap <c-П> <c-P>
-nmap Ш [
-nmap <c-Ш> <c-[>
-nmap Щ ]
-nmap <c-Щ> <c-]>
+nmap Ю Å
+nmap <c-Ю> <c-Å>
+nmap Ж ^
+nmap <c-ж> <c-^>
 nmap А A
 nmap <c-А> <c-A>
 nmap С S
@@ -98,12 +106,12 @@ nmap Л L
 nmap <c-Л> <c-L>
 nmap З Z
 nmap <c-З> <c-Z>
-nmap Ь X
-nmap <c-Ь> <c-X>
+nmap Х X
+nmap <c-Х> <c-X>
 nmap Ц C
 nmap <c-Ц> <c-C>
-nmap Ж V
-nmap <c-Ж> <c-V>
+nmap В V
+nmap <c-В> <c-V>
 nmap Б B
 nmap <c-Б> <c-B>
 nmap Н N
